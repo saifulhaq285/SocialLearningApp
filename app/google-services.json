@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "721224684682",
+    "firebase_url": "https://sociallearningapp-f3a98-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sociallearningapp-f3a98",
+    "storage_bucket": "sociallearningapp-f3a98.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721224684682:android:3aae03e5bf9cecb2974973",
+        "android_client_info": {
+          "package_name": "com.example.sociallearningapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-jIBxbMFl0XscHviGAMxuGu6iQ-GZ6-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
